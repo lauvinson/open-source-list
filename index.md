@@ -2,10 +2,10 @@
 
 各个平台或宿主软件的工具/插件
 
-```markdown
-JetBrain Tools
-1. [Private quick word translation](https://github.com/lauvinson/Private-quick-word-translation-for-IDEA)
-```
+* JetBrain Platform
+name |  developer  
+-|-
+[Private quick word translation](https://github.com/lauvinson/Private-quick-word-translation-for-IDEA) | [lauvinson](https://github.com/lauvinson) |
 
 ### 支持与联系
 工程问题请提对应Issue或[Email](mailto:wincentlauvinson@gmail.com)

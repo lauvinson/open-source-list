@@ -3,7 +3,7 @@
 _各个平台或宿主软件的工具/插件_
 
 - #### JetBrain Platform
-    i.  [Private quick word translation](https://github.com/lauvinson/Private-quick-word-translation-for-IDEA)
+    i.  [Private interactive assistant for IntelliJ.](https://github.com/lauvinson/Private-interactive-assistant-for-IntelliJ)
 
 ---
 ## 支持与联系

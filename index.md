@@ -17,6 +17,8 @@
     i. [TF-Simple.](https://github.com/lauvinson/tf-model)
 - #### Python
     i. [Shape2d A*](https://github.com/lauvinson/hacker-2019-guitar)
+
+    ii. [Auto-Mask](https://github.com/lauvinson/auto-mask)
     
     ii. [Spider](https://github.com/lauvinson/myspider)
 - #### C/++

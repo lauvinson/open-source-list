@@ -4,6 +4,10 @@
     i.  [Private interactive assistant for IntelliJ.](https://github.com/lauvinson/Private-interactive-assistant-for-IntelliJ) - 类Wox插件
 
 
+- #### Chrome Plugin
+    i.  [Fast Tools.](https://github.com/milkomeda-org/anybase) - 集成快捷工具
+
+
 ## Library
 - #### Java
     i. [Smart Data.](https://github.com/lauvinson/smart-data.git) - 数据交互插件

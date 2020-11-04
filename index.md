@@ -22,7 +22,7 @@
     
     iv. [PI. By Milkomeda](https://github.com/milkomeda-org/PI) - A very great platform for creative
     
-    v. [doc-scanner. By Milkomeda](https://github.com/milkomeda-org/doc-scanner) - Code comment document scanner
+    v. [content-scanner. By Milkomeda](https://github.com/milkomeda-org/content-scanner) - Look for content in code
 - #### TensorFlow
     i. [TF-Simple.](https://github.com/lauvinson/tf-model)
 - #### Python

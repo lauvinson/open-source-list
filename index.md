@@ -1,16 +1,16 @@
 ## Tools/Plugins
 
 - #### JetBrain Platform
-    i.  [Private interactive assistant for IntelliJ.](https://github.com/lauvinson/Private-interactive-assistant-for-IntelliJ) - 类Wox插件
+    i.  [interactive assistant.](https://github.com/lauvinson/interactive-assistant) - 优秀的适配器插件
 
 
 - #### Chrome Plugin
-    i.  [Fast Tools.](https://github.com/milkomeda-org/anybase) - 集成快捷工具
+    i.  [Fast Tools.](https://github.com/milkomeda-org/anybase) - 快捷工具箱
 
 
 ## Library
 - #### Java
-    i. [Smart Data.](https://github.com/lauvinson/smart-data.git) - 数据交互插件
+    i. [Smart Data.](https://github.com/lauvinson/smart-data.git) - 数据中间件
 
 ## Experimental
 - #### Golang
@@ -20,19 +20,20 @@
     
     iii. [GoGo.](https://github.com/lauvinson/gogo) - a fast components library
     
-    iv. [PI. By Milkomeda](https://github.com/milkomeda-org/PI) - A very great platform for creative
+    iv. [PI. By Milkomeda](https://github.com/milkomeda-org/PI) - A very great platform for creative with plugin
     
-    v. [content-scanner. By Milkomeda](https://github.com/milkomeda-org/content-scanner) - Look for content in code
+    v. [content-scanner. By Milkomeda](https://github.com/milkomeda-org/content-scanner) - Look for content in anywhere
 - #### TensorFlow
-    i. [TF-Simple.](https://github.com/lauvinson/tf-model)
+    i. [TF-Simple.](https://github.com/lauvinson/tf-model) - tf wiki
 - #### Python
     i. [Shape2d A*](https://github.com/lauvinson/hacker-2019-guitar) - 二维寻路
 
-    ii. [Auto-Mask](https://github.com/lauvinson/auto-mask) - 人脸追踪遮罩
+    ii. [Auto-Mask](https://github.com/lauvinson/auto-mask) - 人脸关键标注
     
-    iii. [Spider](https://github.com/lauvinson/myspider) - 爬虫/自动化
+    iii. [Spider](https://github.com/lauvinson/myspider) - 爬虫
 - #### C/++
-    i. [Learning-Simple](https://github.com/lauvinson/c-learn)
+    i. [Learning-Simple](https://github.com/lauvinson/c-learn) 
+    ii. [section](https://github.com/lauvinson/section) - 网桥
 
 ---
 ## Support

@@ -14,9 +14,9 @@
 
 ## Experimental
 - #### Golang
-    i. [Gose.](https://github.com/lauvinson/gose)
+    i. [Gose.](https://github.com/lauvinson/gose) - NoSQL
 
-    ii. [Go-Code-Wiki.](https://github.com/lauvinson/go-simple-learning) - wiki
+    ii. [Go-Code-Wiki.](https://github.com/lauvinson/go-simple-learning) - Wiki
     
     iii. [GoGo.](https://github.com/lauvinson/gogo) - a fast components library
     
@@ -24,7 +24,7 @@
     
     v. [content-scanner. By Milkomeda](https://github.com/milkomeda-org/content-scanner) - Look for content in anywhere
 - #### TensorFlow
-    i. [TF-Simple.](https://github.com/lauvinson/tf-model) - tf wiki
+    i. [TF-Simple.](https://github.com/lauvinson/tf-model) - Wiki
 - #### Python
     i. [Shape2d A*](https://github.com/lauvinson/hacker-2019-guitar) - 二维寻路
 
@@ -32,9 +32,11 @@
     
     iii. [Spider](https://github.com/lauvinson/myspider) - 爬虫
 - #### C/++
-    i. [Learning-Simple](https://github.com/lauvinson/c-learn) 
+    i. [Learning-Simple](https://github.com/lauvinson/c-learn) - Wiki
     
-    ii. [section](https://github.com/lauvinson/section) - 网桥
+    ii. [selection](https://github.com/lauvinson/selection) - Server
+    
+    iii. [client](https://github.com/lauvinson/client) - Client
 
 ---
 ## Support

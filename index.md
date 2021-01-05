@@ -31,6 +31,8 @@
     ii. [Auto-Mask](https://github.com/lauvinson/auto-mask) - 人脸关键标注
     
     iii. [Spider](https://github.com/lauvinson/myspider) - 爬虫
+    
+    iv. [leet-practice](https://github.com/lauvinson/leet-practice) - LeetCode刷题笔记
 - #### C/++
     i. [Learning-Simple](https://github.com/lauvinson/c-learn) - Wiki
     
@@ -42,4 +44,4 @@
 ## Support
 :boom:repository Issue / [Email](mailto:wincentlauvinson@gmail.com)
 
-:boom:support site:[me](https://www.lauvinson.com),[milkomeda](https://www.milkomeda.org)
+support:[me](https://www.lauvinson.com) or [milkomeda](https://www.milkomeda.org)

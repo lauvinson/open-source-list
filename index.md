@@ -1,16 +1,16 @@
-> Hi! I'm vinson, I'm glad for you to find out my activity list of GitHub open-source
+> Hi! I'm vinson, I'm glad you found out my activity open-source projects on GitHub 🚀
 
 
 ## Tools/Plugins
 
 - #### JetBrains Platform
 
-  i.  [interactive assistant.](https://github.com/lauvinson/interactive-assistant) - the smart plugin of assistant on JetBrains plugin marketplace
+  i.  [**interactive assistant**.](https://github.com/lauvinson/interactive-assistant) - the smart plugin of assistant on JetBrains plugin marketplace
 
 
 - #### Chrome Plugin
 
-  i.  [Fast Tools.](https://github.com/milkomeda-org/anybase) - the plugin for programmer or artists on chrome webstore
+  i.  [**Fast Tools**.](https://github.com/milkomeda-org/anybase) - the plugin for programmer or artists on chrome webstore
 
 
 ## Library
@@ -23,15 +23,19 @@
 
 - #### Golang
 
-  i. [Gose.](https://github.com/lauvinson/gose) - NoSQL
+  i. [*Gose*](https://github.com/lauvinson/gose) - NoSQL
 
-  ii. [Go-Learning.](https://github.com/lauvinson/go-simple-learning) - note of learning
+  ii. [*Go-Learning*](https://github.com/lauvinson/go-simple-learning) - note of learning
 
-  iii. [GoGo.](https://github.com/lauvinson/gogo) - a fast components library for everyone
+  iii. [*GoGo*](https://github.com/lauvinson/gogo) - a fast components library for everyone
 
-  iv. [PI. By Milkomeda](https://github.com/milkomeda-org/PI) - A very great platform for creative with plugin
+  iv. [*PI*. By Milkomeda](https://github.com/milkomeda-org/PI) - A very great platform for creative with plugin
 
-  v. [content-scanner. By Milkomeda](https://github.com/milkomeda-org/content-scanner) - Look for content in anywhere
+  v. [**content-scanner**. By Milkomeda](https://github.com/milkomeda-org/content-scanner) - Look for content in anywhere
+  
+  vi. [**filebeat-clickhouse**](https://github.com/lauvinson/filebeat-ck) - The output plugin for filebeat support push events to ClickHouse
+  
+  vii. [**drone-convert-pathschanged**](https://github.com/meltwater/drone-convert-pathschanged) - A Drone conversion extension to include/exclude pipelines and steps based on paths changed.
 
 - #### TensorFlow
 
@@ -41,7 +45,7 @@
 
   i. [Shape2d A*](https://github.com/lauvinson/hacker-2019-guitar) - a direct runnable python program which is a strategy game of 2d shape
 
-  ii. [Auto-Mask](https://github.com/lauvinson/auto-mask) - To detect and mark to the key point of any face of a person
+  ii. [**Auto-Mask**](https://github.com/lauvinson/auto-mask) - To detect and mark to the key point of any face of a person
 
   iii. [Spider](https://github.com/lauvinson/myspider) - a network spider
 
